@@ -1,0 +1,27 @@
+.container {
+    max-width: 1200px;
+    width: 90%;
+    margin: auto;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.btn {
+    padding: .3em 1.9em;
+    border-radius: 5em;
+    margin-top: .5em;
+    text-transform: uppercase;
+    font-weight: 500;
+    outline:none;
+}
+/* .btn:hover{
+    color: rgb(236, 225, 225);
+} */
+
+.btn-primary {
+    background: #ff3f34;
+    color: white;
+}
+ 
